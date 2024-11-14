@@ -139,7 +139,7 @@
 
                 // Scroll to load more tweets
                 window.scrollTo(0, document.body.scrollHeight);
-                await sleep(1000); // Shortened wait for more tweets to load
+                await sleep(5000); // Shortened wait for more tweets to load
             }
 
             console.log("All tweets have been processed.");
