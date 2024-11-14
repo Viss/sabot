@@ -10,3 +10,5 @@ instructions for use are quite straightforward:
 - paste the entire (edited) file into the inspector
 - hit enter
 - watch sparks fly out of the fuckin' thing :D
+
+[edit] - you may have to run this multiple times. from your profile 'tab', it can only see retweets and posts, but not 'replies', those are in another section, so you'll have to click on 'with replies' in your profile and run it again.
